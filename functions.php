@@ -1,6 +1,6 @@
 /*
 * This code is the CMB2 box of the 'food_menu_items' custom field.
-* Add it on the file 'functions.php' of wordpress
+* Add it in the wordpress file 'functions.php'
 */
 
 
