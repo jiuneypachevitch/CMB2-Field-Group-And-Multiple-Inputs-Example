@@ -12,7 +12,7 @@ The course does not demonstrate how to use the CMB2 plugin to implement the cust
 Este projeto é um exemplo de uso do CMB2 com campo do tipo 'group' e campos com vários inputs 'repeatable'. 
 
 Este fragmento de código foi criado para tornar possível usar o plugin do wordpress CMB2 com campos agrupados aninhados.
-Com a utilização de multiplos inputs em um campo e definindo esse campo como repetível, podemos adicioná-lo a um campo do tipo grupo e com isso conseguimos ter campos aninhados em dois niveis.
+Com a utilização de multiplos inputs em um campo e definindo esse campo como repetível, podemos adicioná-lo a um campo do tipo grupo e com isso conseguimos ter campos aninhados em dois níveis.
 
 O exemplo desenvolvido aqui é um códido complementar para a aula "4-6 repeater field" que faz parte do curso "Wordpress como CMS" da escola Origamid.com onde é usado o plugin ACF para criar campos personalizados em dois níveis.
 
